@@ -1,0 +1,7 @@
+c:\users\dan\documents\visual studio 2017\Projects\test\test\bin\Debug\test.exe.config
+c:\users\dan\documents\visual studio 2017\Projects\test\test\bin\Debug\test.exe
+c:\users\dan\documents\visual studio 2017\Projects\test\test\bin\Debug\test.pdb
+c:\users\dan\documents\visual studio 2017\Projects\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+c:\users\dan\documents\visual studio 2017\Projects\test\test\obj\Debug\test.exe
+c:\users\dan\documents\visual studio 2017\Projects\test\test\obj\Debug\test.pdb
+c:\Users\DaN\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csprojAssemblyReference.cache
