@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PyToExe": {
+      "commandName": "Project",
+      "commandLineArgs": "-name bob -file C:\\temp\\loris.py"
+    }
+  }
+}
